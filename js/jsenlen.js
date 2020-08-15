@@ -1,5 +1,5 @@
 function nuevaCaja(){ 
-    var seccion = document.querySelector(".section");
+    var seccion = document.querySelector(".art");
 
 
     var botones1= document.createElement("button");
